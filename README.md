@@ -3,7 +3,7 @@
 복잡한 외부 연동(AWS S3, Redis, Security 등)을 걷어내고, 인스타그램의 핵심 비즈니스 로직과 도메인(회원, 게시글, 댓글, 좋아요)에 집중하여 구현한 RESTful API 서버입니다.
 
 ## 🛠 Tech Stack
-- **Language:** Java 17
+- **Language:** Java 25
 - **Framework:** Spring Boot
 - **Database:** Spring Data JPA, H2 / MySQL
 - **Build Tool:** Gradle
